@@ -16,3 +16,5 @@ cmake --install . --config Release
 ## Use 
 To use the binary, either add `<install_prefix>/bin` to the path and then launch the `gazebo` command from terminal.
 
+![gazebo_command_windows](https://user-images.githubusercontent.com/1857049/97082362-4c90b200-1609-11eb-9ea4-79a331ba4638.gif)
+
