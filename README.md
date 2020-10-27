@@ -1,9 +1,9 @@
 # gazebo-command-windows
 gazebo command for the versions of the Gazebo simulator that on Windows does not provide it.
 
-Up to Gazebo 11.2, all the version of Gazebo availale on Windows provide the two separate binaries `gzserver` and `gzclient`, 
+Up to Gazebo 11.2, all the version of Gazebo available on Windows provide the two separate binaries `gzserver` and `gzclient`, 
 but do not provide the unified command `gazebo` that is commonly used by users and in documentation and examples. This repo provide
-the `gazebo` command also on Windows.
+the `gazebo` command also on Windows. This code has been submitted to Gazebo in https://github.com/osrf/gazebo/pull/2864 .
 
 ## Build 
 Compile Gazebo for Windows or download a Gazebo binary build, for example from https://github.com/robotology/robotology-superbuild-dependencies-vcpkg .
